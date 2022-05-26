@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragmentMenu"
+        android:icon="@drawable/ic_home"
+        android:title="Asosiy" />
+    <item
+        android:id="@+id/favouriteFragmentMenu"
+        android:icon="@drawable/ic_favourites"
+        android:title="Yoqtirgan" />
+    <item
+        android:id="@+id/addFragmentMenu"
+        android:icon="@drawable/ic_add_ad"
+        android:title="Qo'shish" />
+    <item
+        android:id="@+id/categoryFragmentMenu"
+        android:icon="@drawable/ic_category"
+        android:title="Kategoriya" />
+    <item
+        android:id="@+id/profileFragmentMenu"
+        android:icon="@drawable/ic_profile"
+        android:title="Profil" />
+</menu>

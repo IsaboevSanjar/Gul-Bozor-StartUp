@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Gul Bozor Start Up</string>
+    <string-array name="numbers">
+        <item>so\'m</item>
+        <item>$</item>
+        <item>₽ rubl</item>
+    </string-array>
+
+    <string name="qidirish">qidirish</string>
+    <string name="o_simlik_ha">O\u00E2\u0080\u0099simlik haqida ma\u00E2\u0080\u0099lumotlarni kiriting.</string>
+
+    <style name="o_simlik_ha">
+        <item name="android:textSize">
+            13sp
+        </item>
+        <item name="android:textColor">
+            #000000
+        </item>
+    </style>
+
+    <style name="sarlavhani_">
+        <item name="android:textSize">
+            10sp
+        </item>
+        <item name="android:textColor">
+            #797979
+        </item>
+    </style>
+
+    <string name="sarlavhani_">Sarlavhani kiriting.</string>
+
+    <style name="geran_guli_">
+        <item name="android:textSize">
+            13sp
+        </item>
+        <item name="android:textColor">
+            #757373
+        </item>
+    </style>
+    <!-- strings.xml -->
+    <string name="geran_guli_">Geran guli, tuvagi bilan kelishtiraman.</string>
+
+    <style name="bosh_rasm">
+        <item name="android:textSize">
+            10sp
+        </item>
+        <item name="android:textColor">
+            #797979
+        </item>
+    </style>
+    <!-- strings.xml -->
+    <string name="bosh_rasm">Bosh rasm.</string>
+
+    <!-- styles.xml -->
+    <style name="o_simlik_tu">
+        <item name="android:textSize">
+            10sp
+        </item>
+        <item name="android:textColor">
+            #797979
+        </item>
+    </style>
+
+    <!-- strings.xml -->
+    <string name="o_simlik_tu">O\u00E2\u0080\u0099simlik turini tanlang.</string>
+
+    <style name="ramashka">
+        <item name="android:textSize">
+            13sp
+        </item>
+        <item name="android:textColor">
+            #757373
+        </item>
+    </style>
+    <!-- strings.xml -->
+    <string name="ramashka">Ramashka</string>
+    <!-- styles.xml -->
+    <style name="narxni_kiri">
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #797979
+        </item>
+
+    </style>
+    <!-- strings.xml -->
+    <string name="narxni_kiri">Narxni kiriting.</string>
+    <string name="_20_000">0</string>
+
+    <style name="diametri">
+        <item name="android:textSize">
+            6sp
+        </item>
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- strings.xml -->
+    <string name="diametri">diametri</string>
+
+    <style name="balandligi">
+
+        <item name="android:textSize">
+            6sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- strings.xml -->
+    <string name="balandligi">balandligi</string>
+    <string name="tuvakli">O\'simlik tuvak bilan beriladimi?</string>
+    <string name="ugit">O\'simlik o\'g\'it bilan beriladimi?</string>
+    <string name="more_info">Qo\'shimcha ma\'lumotlar:</string>
+    <string name="e_lonni_ko">E\'lonni ko\'rib chiqish</string>
+    <string name="tuvak">Tuvak</string>
+    <string name="o_g_it">O\'g\'it</string>
+
+
+</resources>

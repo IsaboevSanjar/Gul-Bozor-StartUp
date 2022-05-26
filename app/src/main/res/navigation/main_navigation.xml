@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/homeFragmentMenu">
+
+    <fragment
+        android:id="@+id/addFragmentMenu"
+        android:name="gulbozor.uz.ui.fragments.AddFragment"
+        android:label="AddFragment"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/categoryFragmentMenu"
+        android:name="gulbozor.uz.ui.fragments.CategoryFragment"
+        android:label="CategoryFragment"
+        tools:layout="@layout/fragment_category" />
+    <fragment
+        android:id="@+id/favouriteFragmentMenu"
+        android:name="gulbozor.uz.ui.fragments.FavouritesFragment"
+        android:label="FavouritesFragment"
+        tools:layout="@layout/fragment_favourites" />
+    <fragment
+        android:id="@+id/profileFragmentMenu"
+        android:name="gulbozor.uz.ui.fragments.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/homeFragmentMenu"
+        android:name="gulbozor.uz.ui.fragments.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home" />
+</navigation>

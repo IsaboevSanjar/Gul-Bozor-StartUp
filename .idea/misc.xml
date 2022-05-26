@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/add.xml" value="0.1785" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/add_phota_a.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/add_photo_a.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/arrow_down.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/arrow_down_sort_24.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_add_ad.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_add_adver.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_add_photo_a.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_category.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_diameter.xml" value="0.1785" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_diametr.xml" value="0.19" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_favourites.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_height.xml" value="0.1785" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_home.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_profile.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_rectangle_1.xml" value="0.1405" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_rectangle_2.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_round_add_40.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_round_search_24.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/ic_search_inte.xml" value="0.1405" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/item_menu_background.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/main_pic_back.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/no_back_empty.xml" value="0.1785" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/preview_for_app.xml" value="0.1925" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/rectangle_1.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/search_inte.xml" value="0.1405" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/selectable_item_background.xml" value="0.196" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/selected_yes_no.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/size_rectangle_back.xml" value="0.195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/drawable/tab_corner_shape.xml" value="0.1955" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/activity_advertisement.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/activity_more_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/activity_more_information.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/add_advertisement.xml" value="0.25509670674333507" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/advertisement_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/example_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragment_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragment_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragment_favourites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/fragtment_more_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/item_ad_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/item_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/item_view_pager.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/list_advertisement.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/layout/more_information_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/GulBozor/app/src/main/res/menu/main_bottom_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
