@@ -12,7 +12,7 @@ import java.io.File;
 import gulbozor.uz.R;
 import gulbozor.uz.core.adapters.ViewPagerAdapter;
 
-public class Example extends AppCompatActivity {
+public class ExampleJava extends AppCompatActivity {
     ViewPager viewPager;
     WormDotsIndicator dot3;
     ViewPagerAdapter viewAdapter;

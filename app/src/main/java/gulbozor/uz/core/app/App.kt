@@ -1,15 +1,18 @@
 package gulbozor.uz.core.app
 
-import dagger.android.AndroidInjector
-import dagger.android.DaggerApplication
-import gulbozor.uz.core.di.component.DaggerAppComponent
+import android.app.Application
 
-class App : DaggerApplication() {
+class App : Application() {
     override fun onCreate() {
         super.onCreate()
+        instance = this
+
     }
 
-    override fun applicationInjector(): AndroidInjector<out DaggerApplication>? {
-        return DaggerAppComponent.builder().application(this).build()
+    companion object {
+        var instance: Application? = null
+            private set
     }
+
+
 }

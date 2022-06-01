@@ -5,13 +5,16 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import gulbozor.uz.R
 import gulbozor.uz.core.adapters.ChildAdapter
 import gulbozor.uz.core.exampleModels.ExampleModel
 import gulbozor.uz.databinding.FragmentHomeBinding
+import gulbozor.uz.ui.viewModel.HomeVM
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -19,8 +22,9 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
 
     private var _binding: FragmentHomeBinding? = null
     private val binding get() = _binding!!
+    private val viewModel: HomeVM by viewModels()
 
-    private val adapter = ChildAdapter()
+    private var adapter = ChildAdapter()
     private var layoutManager: StaggeredGridLayoutManager? = null
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -35,6 +39,14 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
         super.onViewCreated(view, savedInstanceState)
         setViewState()
         loadData()
+        loadObservers()
+        viewModel.getData()
+    }
+
+    private fun loadObservers() {
+        viewModel.errorResponse.observe(viewLifecycleOwner) {
+            Toast.makeText(requireContext(), "$it", Toast.LENGTH_SHORT).show()
+        }
     }
 
     @SuppressLint("SimpleDateFormat")
